@@ -45,12 +45,12 @@ I enjoy working across **data analytics, system design, and software engineering
 
 ## 📊 Featured Projects
 
-### Netflix Content Analytics Dashboard
+### Netflix Content Distribution & Growth Analysis
 Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
 
 🔗 [View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
 
-### Global Volcanic Activity Dashboard
+### Volcanic Eruption Trends & Geographic Distribution
 Interactive Tableau dashboard analysing eruption frequency, geographic distribution, and long-term fatality trends.
 
 🔗 [View Repository](https://github.com/snehabesu/volcanic-eruption-trends-tableau)
@@ -70,7 +70,7 @@ Java-based refactoring project applying clean architecture principles, UML model
 
 🔗 [View Repository](https://github.com/snehabesu/dungeonmania-refactor)
 
-### Satellite Communication Simulation
+### Satellite Modelling and Simulation
 Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
 
 🔗 [View Repository](https://github.com/snehabesu/satellite-communication-simulation)
