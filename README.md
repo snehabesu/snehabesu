@@ -4,6 +4,7 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 I enjoy working across **data analytics, system design, and software engineering**, transforming complex data and technical ideas into clear, scalable solutions.
 
+
 ## 🛠 Technical Skills
 
 ### Programming Languages
@@ -43,6 +44,7 @@ I enjoy working across **data analytics, system design, and software engineering
 - UX/UI Prototyping (Figma)
 - Accessibility Design (WCAG)
 
+
 ## 📊 Featured Projects
 
 ### Netflix Content Distribution & Growth Analysis
@@ -75,11 +77,13 @@ Object-oriented simulation modelling device–satellite communication systems an
 
 🔗 [View Repository](https://github.com/snehabesu/satellite-communication-simulation)
 
+
 ## 🌱 Currently Working On
 
 - Building new data analytics projects using Python and Power BI
 - Expanding my portfolio with end-to-end software engineering projects
 - Exploring cloud architecture and scalable system design
+
 
 ## 📫 Connect With Me
 
