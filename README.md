@@ -6,37 +6,37 @@ I enjoy working across **data analytics, system design, and software engineering
 
 ## 🛠 Technical Skills
 
-**Programming Languages**
+### Programming Languages
 - Python
 - Java
 - SQL
 - C
 
-**Data & Analytics**
+### Data & Analytics
 - Tableau
 - Power BI
 - Data Visualisation
 - Time Series Analysis
 - Geospatial Analysis
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 - AWS Lambda
 - Terraform
 - CloudWatch
 - Serverless Architecture
 
-**Databases**
+### Databases
 - PostgreSQL
 - SQLite
 
-**Development Tools**
+### Development Tools
 - Git
 - GitHub
 - GitLab
 - Jira
 - Confluence
 
-**Design & System Architecture**
+### Design & System Architecture
 - System Design
 - Object-Oriented Programming (OOP)
 - Role-Based Access Control (RBAC)
