@@ -68,11 +68,6 @@ Refactoring-focused project applying clean architecture principles, UML modellin
 
 🔗 [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
 
-### Satellite Modelling and Simulation
-Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
-
-🔗 [View Repository](https://github.com/snehabesu/satellite-communication-simulation)
-
 ## 🌱 Currently Working On
 
 - Building new data analytics projects using Python and Power BI
