@@ -43,10 +43,10 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 ## 📊 Featured Projects
 
-### Netflix Content Distribution & Growth Analysis
-Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
+- ### Netflix Content Distribution & Growth Analysis
+  Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
 
-🔗 [View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
+  🔗 [View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
 
 ### Volcanic Eruption Trends & Geographic Distribution
 Interactive Tableau dashboard analysing eruption frequency, geographic distribution, and long-term fatality trends.
