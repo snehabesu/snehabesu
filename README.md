@@ -43,35 +43,29 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 ## 📊 Featured Projects
 
-### Netflix Content Distribution & Growth Analysis
-Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
+- ### Netflix Content Distribution & Growth Analysis
+  Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
+  [View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
 
-[View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
+- ### Volcanic Eruption Trends & Geographic Distribution
+  Interactive Tableau dashboard analysing eruption frequency, geographic distribution, and long-term fatality trends.
+  [View Repository](https://github.com/snehabesu/volcanic-eruption-trends-tableau)
 
-### Volcanic Eruption Trends & Geographic Distribution
-Interactive Tableau dashboard analysing eruption frequency, geographic distribution, and long-term fatality trends.
+- ### Athena – Student Internship Management Platform
+  System design prototype for a two-sided internship platform supporting application lifecycle tracking, modular dashboards, and role-based access control.
+  [View Repository](https://github.com/snehabesu/athena-internship-management-platform)
 
-[View Repository](https://github.com/snehabesu/volcanic-eruption-trends-tableau)
+- ### Travel Checker – Health Advisory Platform
+  Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
+  [View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
 
-### Athena – Student Internship Management Platform
-System design prototype for a two-sided internship platform supporting application lifecycle tracking, modular dashboards, and role-based access control.
+- ### Dungeonmania Game Refactor
+  Refactoring-focused project applying clean architecture principles, UML modelling, and object-oriented design improvements.
+  [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
 
-[View Repository](https://github.com/snehabesu/athena-internship-management-platform)
-
-### Travel Checker – Health Advisory Platform
-Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
-
-[View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
-
-### Dungeonmania Game Refactor
-Refactoring-focused project applying clean architecture principles, UML modelling, and object-oriented design improvements.
-
-[View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
-
-### Satellite Modelling and Simulation
-Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
-
-[View Repository](https://github.com/snehabesu/satellite-communication-simulation)
+- ### Satellite Modelling and Simulation
+  Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
+  [View Repository](https://github.com/snehabesu/satellite-communication-simulation)
 
 ## 🌱 Currently Working On
 
