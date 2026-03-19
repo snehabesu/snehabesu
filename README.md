@@ -66,7 +66,7 @@ Cloud-based advisory platform transforming WHO epidemiological datasets into str
 ### Dungeonmania Game Refactor
 Java-based refactoring project applying clean architecture principles, UML modelling, and object-oriented design improvements.
 
-🔗 [View Repository](https://github.com/snehabesu/dungeonmania-refactor)
+🔗 [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
 
 ### Satellite Modelling and Simulation
 Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
