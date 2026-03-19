@@ -48,25 +48,30 @@ Interactive Power BI dashboard exploring global Netflix content distribution, ge
   
 🔗 [View Repository](https://github.com/snehabesu/netflix-content-analysis-powerbi)
 
+
 ### Volcanic Eruption Trends & Geographic Distribution
 Interactive Tableau dashboard analysing eruption frequency, geographic distribution, and long-term fatality trends.
   
 🔗 [View Repository](https://github.com/snehabesu/volcanic-eruption-trends-tableau)
+
 
 ### Athena – Student Internship Management Platform
 System design prototype for a two-sided internship platform supporting application lifecycle tracking, modular dashboards, and role-based access control.
   
 🔗 [View Repository](https://github.com/snehabesu/athena-internship-management-platform)
 
+
 ### Travel Checker – Health Advisory Platform
 Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
   
 🔗 [View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
 
+
 ### Dungeonmania Game Refactor
 Refactoring-focused project applying clean architecture principles, UML modelling, and object-oriented design improvements.
   
 🔗 [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
+
 
 ### Satellite Modelling and Simulation
 Object-oriented simulation modelling device–satellite communication systems and scalable entity interactions.
