@@ -64,7 +64,7 @@ Refactoring-focused project applying clean architecture principles, UML modellin
 🔗 [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
 
 ### Travel Checker – Health Advisory Platform
-Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
+Cloud-based health advisory platform transforming WHO epidemiological datasets into actionable guidance using serverless architecture.
 
 🔗 [View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
 
