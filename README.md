@@ -58,15 +58,15 @@ System design prototype for a two-sided internship platform supporting applicati
 
 🔗 [View Repository](https://github.com/snehabesu/athena-internship-management-platform)
 
-### Travel Checker – Health Advisory Platform
-Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
-
-🔗 [View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
-
 ### Dungeonmania Game Refactor
 Refactoring-focused project applying clean architecture principles, UML modelling, and object-oriented design improvements.
 
 🔗 [View Repository](https://github.com/snehabesu/dungeonmania-game-refactor)
+
+### Travel Checker – Health Advisory Platform
+Cloud-based health advisory platform transforming WHO epidemiological datasets into structured travel guidance using serverless architecture.
+
+🔗 [View Repository](https://github.com/snehabesu/travel-health-advisory-platform)
 
 ## 🌱 Currently Working On
 
