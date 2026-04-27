@@ -10,9 +10,9 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - SQL
 - C
 
-### Software Engineering & System Architecture
+### Software Engineering & System Design
 - Object-Oriented Programming (OOP)
-- Scalable System Design
+- Scalable System Architecture
 - Role-Based Access Control (RBAC)
 
 ### Networks & Security
@@ -21,6 +21,7 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - Trunking (802.1Q)
 - Access Control Lists (ACLs)
 - Network Design (Cisco Packet Tracer)
+- Network Troubleshooting (Ping, ARP analysis)
 
 ### Cloud & Infrastructure
 - AWS Lambda
