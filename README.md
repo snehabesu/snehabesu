@@ -11,7 +11,9 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - C
 
 ### Software Engineering & System Design
+- Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
+- Modular Design & Separation of Concerns
 - Scalable System Architecture
 - Role-Based Access Control (RBAC)
 
