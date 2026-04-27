@@ -43,6 +43,11 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 ## 📊 Featured Projects
 
+### Secure Enterprise Network Simulation (Cisco Packet Tracer)
+Enterprise network simulation implementing VLAN segmentation, inter-VLAN routing, trunking, and ACL-based security using Cisco Packet Tracer.
+
+🔗 [View Repository](https://github.com/snehabesu/secure-enterprise-network-simulation)
+
 ### Netflix Content Distribution & Growth Analysis
 Interactive Power BI dashboard exploring global Netflix content distribution, genres, and production trends.
 
