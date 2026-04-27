@@ -10,6 +10,13 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - SQL
 - C
 
+### Networking & Security
+- VLAN Segmentation
+- Inter-VLAN Routing (Router-on-a-Stick)
+- Trunking (802.1Q)
+- Access Control Lists (ACLs)
+- Network Design (Cisco Packet Tracer)
+
 ### Data & Analytics
 - Tableau
 - Power BI
