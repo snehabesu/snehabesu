@@ -10,12 +10,10 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - SQL
 - C
 
-### Networking & Security
-- VLAN Segmentation
-- Inter-VLAN Routing (Router-on-a-Stick)
-- Trunking (802.1Q)
-- Access Control Lists (ACLs)
-- Network Design (Cisco Packet Tracer)
+### Software Engineering & System Architecture
+- Object-Oriented Programming (OOP)
+- Scalable System Design
+- Role-Based Access Control (RBAC)
 
 ### Data & Analytics
 - Tableau
@@ -23,6 +21,13 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - Data Visualisation
 - Time Series Analysis
 - Geospatial Analysis
+
+### Networking & Security
+- VLAN Segmentation
+- Inter-VLAN Routing (Router-on-a-Stick)
+- Trunking (802.1Q)
+- Access Control Lists (ACLs)
+- Network Design (Cisco Packet Tracer)
 
 ### Cloud & Infrastructure
 - AWS Lambda
@@ -34,18 +39,15 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - PostgreSQL
 - SQLite
 
-### Development Tools
+### Development Tools & Collaboration
 - Git
 - GitHub
 - GitLab
 - Jira
 - Confluence
 
-### Design & System Architecture
-- System Design
-- Object-Oriented Programming (OOP)
-- Role-Based Access Control (RBAC)
-- UX/UI Prototyping (Figma)
+### UX/UI & Design
+- Figma (Prototyping)
 - Accessibility Design (WCAG)
 
 ## 📊 Featured Projects
