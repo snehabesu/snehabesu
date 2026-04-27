@@ -15,14 +15,7 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - Scalable System Design
 - Role-Based Access Control (RBAC)
 
-### Data & Analytics
-- Tableau
-- Power BI
-- Data Visualisation
-- Time Series Analysis
-- Geospatial Analysis
-
-### Networking & Security
+### Networks & Security
 - VLAN Segmentation
 - Inter-VLAN Routing (Router-on-a-Stick)
 - Trunking (802.1Q)
@@ -34,6 +27,13 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - Terraform
 - CloudWatch
 - Serverless Architecture
+
+### Data & Analytics
+- Tableau
+- Power BI
+- Data Visualisation
+- Time Series Analysis
+- Geospatial Analysis
 
 ### Databases
 - PostgreSQL
