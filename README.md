@@ -16,7 +16,6 @@ I'm a Computer Science graduate passionate about building scalable software arch
 - Modular Design & Separation of Concerns
 - Scalable System Architecture
 - Role-Based Access Control (RBAC)
-- API Integration
 
 ### Networks & Security
 - VLAN Segmentation
@@ -28,8 +27,9 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 ### Cloud & Infrastructure
 - AWS Lambda
+- AWS S3
+- AWS CloudWatch
 - Terraform
-- CloudWatch
 - Serverless Architecture
 
 ### Data & Analytics
