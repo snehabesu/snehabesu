@@ -50,7 +50,7 @@ I'm a Computer Science graduate passionate about building scalable software arch
 
 ## 📊 Featured Projects
 
-### Secure Enterprise Network Simulation (Cisco Packet Tracer)
+### Secure Enterprise Network Simulation
 Enterprise network simulation implementing VLAN segmentation, inter-VLAN routing, trunking, and ACL-based security using Cisco Packet Tracer.
 
 🔗 [View Repository](https://github.com/snehabesu/secure-enterprise-network-simulation)
