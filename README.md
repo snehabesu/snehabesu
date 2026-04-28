@@ -1,6 +1,6 @@
 # Hi, I'm Sneha 👋
 
-I'm a Computer Science graduate passionate about building scalable software architectures, secure systems, and intuitive user experiences. I enjoy working across **data analytics, software engineering, system design, and network security**, transforming complex problems and technical ideas into clear, scalable solutions.
+I'm a Computer Science graduate passionate about building scalable software architectures, secure systems, and intuitive user experiences. I enjoy working across **software engineering, network security, system design, and data analytics**, transforming complex problems and technical ideas into clear, scalable solutions.
 
 ## 🛠 Technical Skills
 
