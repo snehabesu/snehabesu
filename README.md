@@ -89,8 +89,8 @@ Cloud-based health advisory platform transforming WHO epidemiological datasets i
 
 ## 🌱 Currently Working On
 
-- Building new data analytics projects using Python and Power BI
 - Expanding my portfolio with end-to-end software engineering projects
+- Building solutions for large-scale enterprise environments
 - Exploring cloud architecture and scalable system design
 
 ## 📫 Connect With Me
